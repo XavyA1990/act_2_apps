@@ -1,0 +1,40 @@
+{
+  "short_name": "Productos",
+  "name": "Buscador de Productos",
+  "id": "com.example.productos",
+  "description": "Buscador de productos en una base de datos",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display_override": ["window-controls-overlay"],
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "orientation": "any",
+  "screenshots": [
+    {
+      "src": "/screenshot-desktop.png",
+      "sizes": "1850x1053",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "1442x3202",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "tel": "+593999582288",
+  "mailto": "xavy1990@outlook.es"
+}
